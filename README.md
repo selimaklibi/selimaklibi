@@ -1,8 +1,9 @@
 ### Selima Klibi
 
 MSc student in **Quantitative Economics (Data track)**, with a BSc double degree in **Economics & Mathematics**
-(Université Paris-Saclay). I work on probability, stochastic processes and econometrics, and I write the code
-that checks the math. Looking for a **quantitative research internship**.
+(Université Paris-Saclay). I like problems where statistics, probability and code meet: building estimators
+from scratch, simulating stochastic systems, and checking results against theory.
+**Open to internships in data science, machine learning and quantitative research.**
 
 #### Selected projects
 
@@ -16,5 +17,6 @@ that checks the math. Looking for a **quantitative research internship**.
 
 **Python** (NumPy, pandas, SciPy, Matplotlib, pytest) · **R** (tidyverse, fixest) · **LaTeX** · Git & GitHub Actions
 
-**Methods**: Markov chains & mixing times, stochastic simulation & Monte Carlo, panel econometrics
-(high-dimensional fixed effects, PPML, cluster-robust inference), maximum likelihood, heavy-tailed distributions.
+**Methods**: statistical modeling & inference (maximum likelihood, GLMs, regression with high-dimensional
+fixed effects, cluster-robust standard errors) · probability & stochastic processes (Markov chains, Monte Carlo
+simulation, heavy-tailed distributions) · reproducible research (unit tests, CI, documented pipelines).
