@@ -8,8 +8,8 @@ that checks the math. Looking for a **quantitative research internship**.
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [**Exact mixing times of card shuffles**](https://github.com/selimaklibi/card-shuffling-mixing-times) | Markov chains on $S_{52}$: exact total-variation and separation curves via a lumping argument (no enumeration of 52! states), sharp vs. textbook strong stationary times, Bayer–Diaconis riffle formula in exact arithmetic, cut-off phenomenon | Python · NumPy · pytest |
-| [**Abelian sandpile on $\mathbb{Z}^2$**](https://github.com/selimaklibi/abelian-sandpile) | Proofs of the abelian property and propagation bounds, verified by a vectorised simulator; exact Green-function identities; self-organised criticality and power-law tail estimation (MLE) | Python · NumPy · SciPy |
+| [**Exact mixing times of card shuffles**](https://github.com/selimaklibi/card-shuffling-mixing-times) | Markov chains on S₅₂: exact total-variation and separation curves via a lumping argument (no enumeration of 52! states), sharp vs. textbook strong stationary times, Bayer–Diaconis riffle formula in exact arithmetic, cut-off phenomenon | Python · NumPy · pytest |
+| [**Abelian sandpile on ℤ²**](https://github.com/selimaklibi/abelian-sandpile) | Proofs of the abelian property and propagation bounds, verified by a vectorised simulator; exact Green-function identities; self-organised criticality and power-law tail estimation (MLE) | Python · NumPy · SciPy |
 | [**Asylum flows: gravity model with HDFE**](https://github.com/selimaklibi/asylum-gravity) | Panel econometrics on 39k observations: from-scratch FE-OLS / FE-PPML with clustered SEs, replication of `fixest`, detection of a coding error and a functional-form artifact (log(1+y) vs. PPML) | Python · R (fixest) |
 
 #### Toolbox
